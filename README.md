@@ -23,6 +23,9 @@ pip install yfinance pandas matplotlib numpy
 python main.py
 ```
 
+<img width="1800" height="1200" alt="momentum" src="https://github.com/user-attachments/assets/29c64706-bdf3-4f44-90e7-53581a32d0a9" />
+
+
 Charts are saved to `/plots`. Raw data saved to `/data`.
 
 ## Sample Output
